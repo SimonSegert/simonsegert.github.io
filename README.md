@@ -16,7 +16,8 @@
 
 
 
-# Diversions
+# Mathematical Diversions
 
 
 Analysis of probability puzzles involving substring counts <a href="misc/coin_tossing.pdf" download>PDF</a>
+Quantifying overfitting of interpolating polynomials <a href="misc/lagrange_poly.pdf" download>PDF</a>
