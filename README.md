@@ -18,6 +18,7 @@
 
 # Mathematical Diversions
 
+Markov Chain Hitting Times and Penney's Game <a href="misc/hittingtime.pdf" download>PDF</a>
 
 Analysis of probability puzzles involving substring counts <a href="misc/coin_tossing.pdf" download>PDF</a>
 
