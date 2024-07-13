@@ -1,8 +1,10 @@
 
 # Academic papers
 
-**S**. Flat Minima in Linear Estimation and an Extended Gauss Markov Theorem. ICLR. 2024. <a href="papers/ICLR_2024_camera_ready.pdf" download>PDF</a>.
+**S**. Maximum Entropy, Symmetry, and the Relational Bottleneck: Unraveling the
+Impact of Inductive Biases on Systematic Reasoning. PhD Thesis, Princeton University. 2024. <a href="papers/thesis_final.pdf" download>PDF</a>.
 
+**S**. Flat Minima in Linear Estimation and an Extended Gauss Markov Theorem. ICLR. 2024. <a href="papers/ICLR_2024_camera_ready.pdf" download>PDF</a>.
 
 **S**, Cohen. Beyond Transformers for Function Learning. Proceedings of the Cognitive Science Society. 2023. <a href="papers/beyond_transformers_cogsci.pdf" download>PDF</a>.
 
