@@ -2,7 +2,7 @@
 # Academic papers
 
 Janson, Nica, **S.**. The Generalized Alice HH vs Bob HT Problem. Under review. 2025.
-<a href="papers/generalizedalicebob.pdf"download>PDF</a>.
+<a href="papers/generalizedalicebob.pdf" download>PDF</a>.
 
 **S.**. A proof that HT is more likely to outnumber HH than vice versa in a sequence of n coin flips. arxiv. 2024.
 <a href="papers/ProofHHTT.pdf" download>PDF</a>.
