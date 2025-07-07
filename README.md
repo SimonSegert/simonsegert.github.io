@@ -5,7 +5,7 @@ Janson, Nica, **S.**. The Generalized Alice HH vs Bob HT Problem. Under review. 
 <a href="papers/generalizedalicebob.pdf" download>PDF</a>.
 
 **S.**. A proof that HT is more likely to outnumber HH than vice versa in a sequence of n coin flips. arxiv. 2024.
-<a href="papers/ProofHHTT.pdf" download>PDF</a>.
+<a href="papers/proofHHTT.pdf" download>PDF</a>.
 
 **S**. Maximum Entropy, Symmetry, and the Relational Bottleneck: Unraveling the
 Impact of Inductive Biases on Systematic Reasoning. PhD Thesis, Princeton University. 2024. <a href="papers/thesis_final.pdf" download>PDF</a>.
@@ -23,11 +23,10 @@ Impact of Inductive Biases on Systematic Reasoning. PhD Thesis, Princeton Univer
 **S**, Davis-Stober. A General Approach to Prior Transformation. Journal of Mathematical Psychology. 2019. <a href="papers/prior_transformation.pdf" download>PDF</a>.
 
 
+[comment]: <>  (Mathematical Diversions)
 
-//# Mathematical Diversions
+[comment]: <>  (Markov Chain Hitting Times and Penney's Game <a href="misc/hittingtime.pdf" download>PDF</a>)
 
-//Markov Chain Hitting Times and Penney's Game <a href="misc/hittingtime.pdf" download>PDF</a>
+[comment]: <>  (Analysis of probability puzzles involving substring counts <a href="misc/coin_tossing.pdf" download>PDF</a>)
 
-//Analysis of probability puzzles involving substring counts <a href="misc/coin_tossing.pdf" download>PDF</a>
-
-//Quantifying overfitting of interpolating polynomials <a href="misc/lagrange_poly.pdf" download>PDF</a>
+[comment]: <>  (Quantifying overfitting of interpolating polynomials <a href="misc/lagrange_poly.pdf" download>PDF</a>)
